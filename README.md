@@ -1,12 +1,14 @@
 # FastHTML AI Chat 🚀
 
+[![Sponsor](https://img.shields.io/badge/sponsor-❤️-red.svg)](https://github.com/sponsors)
 [![Python](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)
 [![FastHTML](https://img.shields.io/badge/FastHTML-latest-green.svg)](https://www.fastht.ml/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o--mini-orange.svg)](https://openai.com/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Sponsor](https://img.shields.io/badge/sponsor-❤️-red.svg)](https://github.com/sponsors)
 
-A modern, real-time AI chat application built with FastHTML that features streaming responses, markdown rendering, syntax highlighting, and mathematical equation support.
+Build AI chat interfaces faster! This app showcases the power of [FastHTML](https://www.fastht.ml/), with real-time streaming, markdown rendering (including math expressions), and seamless user experiences. Perfect as a foundation for your next AI project or as inspiration for what's possible with modern web technologies.
+
+<img src="images/image.png" style="max-width:800px;" />
 
 ## ✨ Features
 
