@@ -1,12 +1,10 @@
 # FastHTML AI Chat 🚀
 
-[![Sponsor](https://img.shields.io/badge/sponsor-❤️-red.svg)](https://github.com/sponsors)
 [![Python](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)
 [![FastHTML](https://img.shields.io/badge/FastHTML-latest-green.svg)](https://www.fastht.ml/)
-[![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o--mini-orange.svg)](https://openai.com/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-Build AI chat interfaces faster! This app showcases the power of [FastHTML](https://www.fastht.ml/), with real-time streaming, markdown rendering (including math expressions), and seamless user experiences. Perfect as a foundation for your next AI project or as inspiration for what's possible with modern web technologies.
+Build AI chat interfaces faster! This app showcases the power of [FastHTML](https://www.fastht.ml/), with real-time streaming, markdown rendering (including math expressions), and a seamless user experience. Perfect as a foundation for your next AI project or as inspiration for what's possible with modern web technologies.
 
 <img src="images/image.png" style="max-width:800px;" />
 
@@ -158,11 +156,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you find this project helpful, consider sponsoring its development:
 
-[![Sponsor](https://img.shields.io/badge/sponsor-❤️-red.svg)](https://github.com/sponsors)
+[![Sponsor](https://img.shields.io/badge/sponsor-❤️-red.svg)](https://github.com/sponsors/ExploringML)
 
 Your sponsorship helps maintain and improve this project!
+
+## 💼 Work With Me
+
+If you need this app customized for your own project let me know? Or perhaps you're looking to build a different type of FastHTML application, or a general Python script, or ML/AI project? I'm available for educational/consulting and development work. Contact me for a chat. I'm always interested in new projects.
+
+📧 **Contact**: d.v.gwyer@gmail.com
 
 ## 🌐 Connect & Follow
 
 - **Twitter**: [@dgwyer](https://x.com/dgwyer)
 - **LinkedIn**: [dgwyer](https://www.linkedin.com/in/dgwyer/)
+- **Discord**: Join our [ExploringML community](https://discord.gg/QnKFdwQa9p) for friendly ML discussions and resources
